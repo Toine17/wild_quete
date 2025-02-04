@@ -1,0 +1,27 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+h2{
+font-size: 30px;
+text-align: center;
+color: #de7471
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: comic san ms, sans-serif;
+color : white;
+}
+
+body {
+background-color: black;
+}
